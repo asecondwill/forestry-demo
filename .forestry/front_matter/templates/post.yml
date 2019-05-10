@@ -38,3 +38,8 @@ fields:
   type: text
   hidden: true
   default: post
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
